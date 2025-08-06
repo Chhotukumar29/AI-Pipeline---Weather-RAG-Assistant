@@ -48,7 +48,7 @@ graph TD
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Chhotukumar29/AI-Pipeline---Weather-RAG-Assistant.git
    cd Neura-Dynamics
    ```
 
@@ -146,11 +146,11 @@ python setup.py
 ## 🔍 Usage Examples
 
 ### Weather Queries
-- "What's the weather in London?"
-- "Temperature in Tokyo"
-- "How's the weather in New York?"
-- "Is it raining in Paris?"
-- "What's the air quality in Beijing?"
+- "What's the weather in Delhi?"
+- "Temperature in Jaipur"
+- "How's the weather in Lucknow?"
+- "Is it raining in Mumbai?"
+- "What's the air quality in Hyderabad?"
 
 ### RAG Queries (after uploading a PDF)
 - "What is the main topic of the document?"
